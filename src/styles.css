@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-img{
+    background-image: url('/assets/imgs/h-berlin-kudamm-hotel-in-kurfrstendamm-street_mediterranean-house-design.jpg');
+    background-size: cover;
+}
